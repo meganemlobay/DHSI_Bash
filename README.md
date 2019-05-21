@@ -3,7 +3,7 @@
 
 
 ### Download Course Data
-.zip file(https://github.com/meganemlobay/DHSI_Bash/raw/master/BASH_data.zip) 
+[.zip file](https://github.com/meganemlobay/DHSI_Bash/raw/master/BASH_data.zip) 
 
 
 ```markdown
