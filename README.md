@@ -1,9 +1,8 @@
-# Welcome to BASH for BEGINNERS
+# BASH for BEGINNERS
 
 
 
-### Download Course Data
-[Download and unzip](https://github.com/meganemlobay/DHSI_Bash/raw/master/BASH_data.zip) 
+### Download Course Data(https://github.com/meganemlobay/DHSI_Bash/raw/master/BASH_data.zip) 
 
 
 ```markdown
